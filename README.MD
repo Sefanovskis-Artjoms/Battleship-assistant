@@ -13,5 +13,3 @@ There are also variables to keep track if ship can be palced or expanded(made lo
 Every time new hit is added or removed, surrounding cell for every ship is also updated.
 
 Colors for heatmap are updated on every change in the grid. It works by finding biggest and smalest value in the grid, assigning respectively the strongest and weakest color tone and colors for every index in between are calculated as interpolation between those two colors
-
-![Screenshot of a project](https://imgur.com/a/Po9653B)
