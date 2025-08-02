@@ -14,3 +14,4 @@ Every time new hit is added or removed,the  surrounding cell for every ship is a
 
 Colours for the heatmap are updated on every change in the grid. It works by finding the biggest and smallest value in the grid, assigning respectively the strongest and weakest color tone and colors for every index in between are calculated as an interpolation between those two colours.
 
+![Screenshot from a launced project](https://github.com/Sefanovskis-Artjoms/Battleship-assistant/blob/main/sc1.PNG)
