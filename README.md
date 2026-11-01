@@ -1,6 +1,6 @@
 # Battleship assistant
 
-**Demo:** [https://github.com/Sefanovskis-Artjoms/Battleship-assistant](https://github.com/Sefanovskis-Artjoms/Battleship-assistant)
+**Demo:** [https://battleship-assistant.artjoms200.workers.dev/](https://battleship-assistant.artjoms200.workers.dev/)
 
 This project helps to play the battleship game by showing the heatmap with indexes that indicates on what cells is the biggest probability that there can be a ship. Also app automatically marks cells around the ship as killzone, where you cant place shots by the rules of the game, making it more visible on what cells there is reason to shoot.
 
